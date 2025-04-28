@@ -51,7 +51,7 @@
 	    </pluginRepository>
 	</pluginRepositories>
      <pluginRepository>
-    <id>snap</id>
+    <id>nexus</id>
     <name>Nexus Snapshots</name>
     <url>http://13.234.120.194:8082/repository/snap/</url>
 </pluginRepository>
